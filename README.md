@@ -23,5 +23,7 @@ En este se realiza el archivo XML en el cual estará el entrenamiento del aprend
 Aquí se mostrará el resultado del entrenamiento, es la parte donde se realizará el reconocimiento facial en tiempo real.
 
 ## Imagen
+![image](https://github.com/Monti710/PythonImageProcess/assets/116086023/591256c6-15e4-4f9f-be02-6423caee3b37)
+![image](https://github.com/Monti710/PythonImageProcess/assets/116086023/f3012cdd-76db-48a5-938a-2643d9d71898)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Monti710/PythonImageProcess/assets/116086023/c39d1182-12d4-405b-9f2c-940203765a91" alt="Descripción de la imagen">&nbsp;&nbsp;&nbsp;&nbsp;
+
